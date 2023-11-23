@@ -1,0 +1,33 @@
+@use 'sass:color';
+
+:root {
+  --color-primary: #6C5F5B;
+  --color-secondary: #ED7D31;
+  --color-tertiary: #4F4A45;
+
+  --color-background: #F6F1EE;
+
+  // Spacing
+  // --spacing-page-x: var(--spacing-6);
+  // --spacing-page-x-negative: calc(var(--spacing-6) * -1);
+  // --spacing-sm: var(--spacing-2);
+  // --spacing-md: var(--spacing-4);
+  // --spacing-lg: var(--spacing-5);
+  // --spacing-xl: var(--spacing-6);
+  // --spacing-2xl: 40px;
+  // --spacing-3xl: var(--spacing-7);
+  // --spacing-sm-negative: calc(var(--spacing-2) * -1);
+
+  // Font sizes and line height
+  --font-xs: 12px;
+  --line-height-xs: 16px;
+
+  --font-base: 16px;
+  --line-height-base: 24px;
+
+  --font-lg: 20px;
+  --line-height-lg: 28px;
+
+  --font-xl: 32px;
+  --line-height-xl: 36px;
+}
